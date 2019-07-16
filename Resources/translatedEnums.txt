@@ -1,0 +1,14 @@
+# comment 1
+Color.Red=Danger
+# comment 2
+Color.Orange=Warning
+# comment 3
+Color.Yellow=Slow
+# comment 4
+Color.Green=Good
+# comment 5
+Color.Blue=Error
+Flavor.Spicy=Szechuan Sauce
+Flavor.Chocolatey=Chocolate Bar
+Flavor.Rich=Cake Batter
+Flavor.Blue=Candy

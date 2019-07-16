@@ -1,0 +1,5 @@
+01=Red
+02=Orange
+03=Yellow
+04=Green
+05=Blue

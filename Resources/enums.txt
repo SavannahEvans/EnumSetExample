@@ -1,0 +1,14 @@
+# comment 1
+01.01=Danger
+# comment 2
+01.02=Warning
+# comment 3
+01.03=Slow
+# comment 4
+01.04=Good
+# comment 5
+01.05=Error
+02.01=Szechuan Sauce
+02.02=Chocolate Bar
+02.03=Cake Batter
+02.04=Candy

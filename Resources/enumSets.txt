@@ -1,0 +1,2 @@
+01=Color
+02=Flavor

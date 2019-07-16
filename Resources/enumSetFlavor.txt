@@ -1,0 +1,4 @@
+01=Spicy
+02=Chocolatey
+03=Rich
+04=Blue
